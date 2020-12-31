@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Main {
+class SpecialSwitch {
   public static void main(String[] args) {
      Scanner input = new Scanner(System.in);
         System.out.print("");
