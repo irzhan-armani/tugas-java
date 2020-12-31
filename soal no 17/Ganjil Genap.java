@@ -1,7 +1,8 @@
 import java.util.Scanner;
+
 class Main {
   public static void main(String[] args) {
-      int a;
+    int a;
     Scanner scan = new Scanner(System.in);
     System.out.print("");
     a = scan.nextInt();
@@ -10,5 +11,5 @@ class Main {
     } else {
       System.out.print("Ganjil");
     }
-        }
+  }
 }
