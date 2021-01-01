@@ -1,4 +1,4 @@
-class Main {
+class Angkaberurutan {
   static int ujian(int[] nums){
     if(nums == null || nums.length ==0){
       return 0;

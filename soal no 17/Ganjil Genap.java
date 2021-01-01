@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Main {
+class GanjilGenap {
   public static void main(String[] args) {
     int a;
     Scanner scan = new Scanner(System.in);

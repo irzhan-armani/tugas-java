@@ -1,4 +1,4 @@
-class Main {
+class SelamatDatangBudi {
   public static void main(String[] args) {
     String nama = "Muhammad Affandes";
     System.out.println("Hai " + nama );

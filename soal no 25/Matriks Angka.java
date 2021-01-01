@@ -1,4 +1,5 @@
-import java.util.Scanner;class Main {
+import java.util.Scanner;
+class MatriksAngka {
   public static void main(String[] args) {
      Scanner input = new Scanner (System.in);
  System.out.print("");

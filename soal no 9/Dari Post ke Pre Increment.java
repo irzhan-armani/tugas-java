@@ -1,4 +1,4 @@
-class Main {
+class PosKePreIncrement {
   public static void main(String[] args) {
     int x = 11;
     int y = 11;			

@@ -1,4 +1,4 @@
-class Main {
+class OperatorPrecedence {
     public static void main(String[] args) {
         int x = 6;
         int y = 12;

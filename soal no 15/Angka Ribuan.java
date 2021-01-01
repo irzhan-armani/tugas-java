@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Locale;
 
-public class main {
+public class AngkaRibuan {
   public static void main(String[] args) {
     Scanner in = new Scanner(System.in);
 

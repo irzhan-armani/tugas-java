@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Main {
+class MenghitungJumlah {
   public static void main(String[] args) {
     int a, b, c, d;
     int matriks[][] = new int[10][10];

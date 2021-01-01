@@ -1,8 +1,9 @@
 import java.util.Scanner;
-public class Main {
+
+public class NamaBulan {
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
-        String[] bulan = {
+
+        String[] Bulan = {
                 "Januari",
                 "Februari",
                 "Maret",
@@ -16,12 +17,13 @@ public class Main {
                 "November",
                 "Desember",
         };
-        int tanggal = input.nextInt();
-        int nobulan = input.nextInt();
-        int tahun = input.nextInt();
-        
-        System.out.print(tanggal + bulan[nobulan - 1] + tahun );
-      
+        Scanner n = new Scanner(System.in);
+        int angka = n.nextInt();
+        int jan = 0;
+        if ( angka >0 && angka <=12){
+          System.out.println(Bulan[angka-1]);
+        } else {
+          System.out.println("Nomor tidak valid");
     }
-    
+  }
 }

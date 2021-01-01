@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class HitungAngka {
   public static void main(String[] args) {
     Scanner f = new Scanner(System.in);
     int jumlah = 0;

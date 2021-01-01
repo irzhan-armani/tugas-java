@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Main {
+class CetakNama {
 public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

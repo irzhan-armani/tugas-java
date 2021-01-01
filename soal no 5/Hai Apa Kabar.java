@@ -1,4 +1,4 @@
-class Main {
+class HaiApaKabar {
   public static void main(String[] args) {
     // Inisialisasi variabel dengan tipe data String
     String nama = "Budi";				// Teks biasa

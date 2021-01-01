@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Main {
+class GarisPersegi {
   public static void main(String[] args) {
     Scanner masukan=new Scanner(System.in);
       System.out.print("");
